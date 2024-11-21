@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\EmployeeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|d:\\git\\employeeproject\\employeeproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|D:\\Git\\EmployeeProject\\employeeproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A563889-5A98-4CAE-A982-00E45DFF6345}|EmployeeProject\\EmployeeProject.csproj|solutionrelative:employeeproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeProject\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeProject\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:55:58.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeProject\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeProject\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:49:05.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeProject\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "EmployeeProject\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:42:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeProject\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmployeeProject\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:38:18.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:30:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeProject\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeProject\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:27:39.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeProject\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeProject\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:20:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeProject\\Web.config",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Web.config",
+              "RelativeToolTip": "EmployeeProject\\Web.config",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-27T10:12:22.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\DAL\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeProject\\DAL\\EmployeeContext.cs",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\DAL\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeProject\\DAL\\EmployeeContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:05:57.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Git\\EmployeeProject\\EmployeeProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeProject\\Models\\Employee.cs",
+              "ToolTip": "D:\\Git\\EmployeeProject\\EmployeeProject\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:45:05.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
